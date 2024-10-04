@@ -1,4 +1,4 @@
-/* This function gets the list of the events from your Google Calendar for the current day */
+/* gets the list of the events from your Google Calendar for the current day */
 function sendCalEventsToEmail() {
     // create a new object of type Date; this will be passed in a method invoked on the CalendarApp service
     let todaysDate = new Date();
