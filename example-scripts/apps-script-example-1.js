@@ -1,3 +1,4 @@
+/* inserts a date into the next empty field in the Date column for a spreadhseet */
 function insertDate() {
     // create a variable to hold an object of type SpreadsheetApp
     // this is the global object for Google Sheets; you can call methods on this object to use the built-in Apps Script services
