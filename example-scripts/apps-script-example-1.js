@@ -13,4 +13,3 @@ function insertDate() {
     cell.setValue(new Date());                  // updates the data in the active cell with today's date
     cell.setNumberFormat("MM:dd:yyyy HH:mm");   // changes the format to datetime
   }
-  
