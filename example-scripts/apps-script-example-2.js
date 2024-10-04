@@ -1,5 +1,4 @@
 /* creates a custom menu in the Sheets UI and adds the insertDate function to that menu */
-
 function onOpen() {
   // inovke the .getUi() method on the global object, assign it all to a variable
   let ui = SpreadsheetApp.getUi();
